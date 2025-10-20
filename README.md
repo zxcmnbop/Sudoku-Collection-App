@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sudoku_icon_512.png" width="200" alt="Sudoku Collection App Icon">
+</p>
+
 # Privacy Policy for Sudoku Collection App
 
 **Last Updated:** October 26, 2025
