@@ -1,4 +1,4 @@
-[# Privacy Policy for Sudoku Collection App
+# Privacy Policy for Sudoku Collection App
 
 **Last Updated:** October 26, 2025
 
@@ -67,8 +67,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please feel free to contact us through our support page:
 
 *   **Support & Feedback:** [https://github.com/zxcmnbop/Sudoku-Collection-App](https://github.com/zxcmnbop/Sudoku-Collection-App)
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at: zxcmnbop@gmail.com`
-](https://github.com/zxcmnbop/Sudoku-Collection-App)
